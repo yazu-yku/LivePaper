@@ -3,11 +3,11 @@
 LivePaper is a small Python script desktop app that play GIFs and MP4 videos as an animated wallpaper.
 This app is currently for Linux (especially Debian 13 Trixie) with xfce desktop environment only.
 
-  <img src="https://livepaper.nekoweb.org/preview/prev-1_old.png" style="width: 300px;">
-  <img src="https://livepaper.nekoweb.org/preview/prev-2.png" style="width: 300px;>
+<img src="https://livepaper.nekoweb.org/preview/prev-1_old.png" style="width: 300px;">
+<img src="https://livepaper.nekoweb.org/preview/prev-2.png" style="width: 300px;>
+
 
 ## Run
-
 Python 3.10 or newer is recommended. And please read the "requirements.txt" when you extract the zip.
 
 Choose a `.gif` or `.mp4`, then select **Set as wallpaper**. MP4 audio is not played. Closing the main window hides LivePaper to the system tray and keeps the wallpaper running. Reopen it from the tray icon, or choose **Quit LivePaper** in the tray menu to exit and stop the wallpaper.
